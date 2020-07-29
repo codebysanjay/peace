@@ -1,4 +1,4 @@
-# peace
+# Peace
 
 A sleep helper and metal stress reducer.
 
